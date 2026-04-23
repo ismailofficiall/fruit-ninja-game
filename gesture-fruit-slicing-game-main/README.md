@@ -67,7 +67,7 @@ Gesture recognition beyond slicing
 
 Author
 
-Priyanka Priyadarshinee
+Ismail Ibrahim
 
 License
 
